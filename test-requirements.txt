@@ -1,0 +1,1 @@
+odoo-addon-graphql-base @ git+https://github.com/OCA/rest-framework.git@refs/pull/474/head#subdirectory=graphql_base
