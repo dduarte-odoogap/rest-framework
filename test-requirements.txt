@@ -1,3 +1,2 @@
 odoo-addon-graphql-base @ git+https://github.com/OCA/rest-framework.git@refs/pull/474/head#subdirectory=graphql_base
 httpx
-odoo-addon-endpoint_route_handler@git+https://github.com/OCA/web-api.git@refs/pull/69/head#subdirectory=endpoint_route_handler
